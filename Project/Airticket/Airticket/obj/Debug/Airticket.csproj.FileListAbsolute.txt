@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2013\Projects\Airticket\Airticket\bin\Debug\Airticket.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Airticket\Airticket\bin\Debug\Airticket.exe
+c:\users\user\documents\visual studio 2013\Projects\Airticket\Airticket\bin\Debug\Airticket.pdb
+c:\users\user\documents\visual studio 2013\Projects\Airticket\Airticket\obj\Debug\Airticket.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Airticket\Airticket\obj\Debug\Airticket.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Airticket\Airticket\obj\Debug\Airticket.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Airticket\Airticket\obj\Debug\Airticket.exe
+c:\users\user\documents\visual studio 2013\Projects\Airticket\Airticket\obj\Debug\Airticket.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Airticket\Airticket\obj\Debug\Airticket.login_form.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Airticket\Airticket\obj\Debug\Airticket.flight_form.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Airticket\Airticket\obj\Debug\Airticket.airline_form.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Airticket\Airticket\obj\Debug\Airticket.customer_form.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\Airticket\Airticket\obj\Debug\Airticket.main_Form.resources
